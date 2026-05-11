@@ -1,6 +1,6 @@
 # AI Event Finder + Auto Registration
 
-A tiny hackathon MVP: Next.js frontend, FastAPI backend, CrewAI-flavored agents, Playwright automation, and in-memory state only.
+A D3 hackathon MVP: Next.js frontend, FastAPI backend, CrewAI-flavored agents, Playwright automation, and in-memory state only.
 
 ## Setup
 
